@@ -1,5 +1,5 @@
 {
-  "name": "parcel-plugin-inliner",
+  "name": "@shuunen/parcel-plugin-inliner",
   "version": "1.1.0",
   "description": "Parcel plugin to inline CSS and JS code in your HTML file.",
   "main": "index.js",
